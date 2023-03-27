@@ -21,3 +21,6 @@ This is done by using supervised learning techniques such as Naive Bayes, Suppor
 
 
 It’s an important application that could serve as a tool to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs. The analysis helps spot negative or positive sentiments about their product or service with precision, and take necessary steps to address those areas.
+
+
+You can check out the blog of this project - https://medium.com/@madhubleh/sentiment-analysis-of-data-11f10bc6a576 
